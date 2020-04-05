@@ -17,7 +17,7 @@ Machine Learning
 	- bucketed "APPLICATION_TYPE" and "CLASSIFICATION" columns to combine rare categorical data.
 	- encoded categorical variables using one-hot encoding. 
 	- merged the one-hot encoded features and dropped the originals.
-	- splited the prepocessed data into a training and testing datasets.
+	- split the preprocessed data into a training and testing datasets.
 	- scaled the data using StandardScaler.
 - Binary classification models
 	- tried three models Deep Learning Model, Neural Network Model and Basic Neural Network Model
